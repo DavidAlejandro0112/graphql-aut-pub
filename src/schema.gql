@@ -10,7 +10,7 @@ type Post {
   title: String!
 
   """Contenido de la publicacion"""
-  content: String!
+  content: String
 }
 
 type Query {
